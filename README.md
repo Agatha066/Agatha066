@@ -35,4 +35,4 @@ Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinho
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agatha066&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/Agatha066/Agatha066/blob/output/github-contribution-grid-snake.svg)
+https://github.com/Agatha066/Agatha066/blob/output/github-contribution-grid-snake.svg
