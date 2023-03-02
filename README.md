@@ -7,7 +7,7 @@
 Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinhos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
 <div align="center">
-  <img align="center" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
+  <img  align="center" src="undraw_programmer_re_owql.svg"/>
 </div>
 
 ## 🔭 Ferramentas e Tecnologias
