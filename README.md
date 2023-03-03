@@ -39,5 +39,5 @@ Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinho
 
 ![Snake animation](https://github.com/Agatha066/Agatha066/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Agatha066&repo=Agatha066&theme=react)](https://github.comAgatha066/Agatha066)
