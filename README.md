@@ -42,6 +42,4 @@ Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinho
 
 ![Snake animation](https://github.com/agatha066/agatha066/blob/output/github-contribution-grid-snake.svg)
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Agatha066&bg_color=2a2326&color=9e4c98&line=9e4c98&point=cdc6c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Agatha066)](https://git.io/streak-stats)
