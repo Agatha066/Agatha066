@@ -1,7 +1,9 @@
 # Sou Ágatha e Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou cursando análise e desenvolvimento de sistemas
+- 🔭 Atualmente estou cursando análise e desenvolvimento de sistemas e estagiando na empresa Nav Brasil.
 - 😄 Pronomes: ela/dela
+- <img align="center" alt="Agatha-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> agathass25#8402 
+
 
 ## Oi, Devs!!
 Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinhos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
@@ -19,11 +21,14 @@ Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinho
 
 ## 📫 Contatos:
 
-<a href="https://instagram.com/agathass25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href = "mailto:contato@agathacristinaf2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<a href="https://instagram.com/agathass25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href = "mailto:contato@agathacristinaf2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   <a href="https://github.com/agatha066/agatha066/blob/main/resume-PT.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Currículo PT-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank">
+  </a> 
 
 ## 🤔 Curiosidades:
 📚 Tenho estudado python e iniciei meus estudos focando em Data Science;
+
+⚡⚡ No meu tempo livre eu leio e busco estar por dentro das tecnologias e assuntos da atualidade.
 
 ☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.
 
@@ -38,3 +43,5 @@ Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinho
 ![Snake animation](https://github.com/agatha066/agatha066/blob/output/github-contribution-grid-snake.svg)
   
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Agatha066&bg_color=2a2326&color=9e4c98&line=9e4c98&point=cdc6c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Agatha066)](https://git.io/streak-stats)
