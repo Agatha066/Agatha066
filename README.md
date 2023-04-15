@@ -23,7 +23,7 @@ Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinho
 
 ## 📫 Contatos:
 
-<a href="https://instagram.com/agathass25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href = "mailto:contato@agathacristinaf2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   <a href="https://github.com/agatha066/agatha066/blob/main/resume-PT.pdf" target="_blank">
+<a href="https://instagram.com/_souzaagatha339" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href = "mailto:contato@agathacristinaf2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   <a href="https://github.com/Agatha066/Agatha066/blob/main/%C3%81gatha%20Souza.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Currículo PT-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank">
   </a> 
 
