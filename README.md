@@ -5,7 +5,7 @@
 - <img align="center" alt="Agatha-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> agathass25#8402 
 - <a href="https://replit.com/@gathaCristina"><img align="center" alt="Agatha-replit" height="20" width="20" src="https://user-images.githubusercontent.com/53305979/224029646-69126a97-2b41-44ad-9798-8b530db79aee.png"> Meu replit</a> 
 - <a href="https://drive.google.com/drive/u/1/search?q=owner:me%20(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab)"><img align="center" alt="Agatha-replit" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"> Meu google colab</a>
-
+- <a href="https://www.linkedin.com/in/%C3%A1gatha-cristina-95b0b4186/"><img align="center" alt="Agatha-Linkedin" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> Meu Linkedin</a>
 
 ## Oi, Devs!!
 Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinhos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
