@@ -1,6 +1,6 @@
 # Sou Ágatha e Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou cursando análise e desenvolvimento de sistemas e estagiando na empresa Nav Brasil.
+- 🔭 Tecnólogo em análise e desenvolvimento de sistemas.
 - 😄 Pronomes: ela/dela
 - <img align="center" alt="Agatha-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> agathass25#8402 
 - <a href="https://replit.com/@gathaCristina"><img align="center" alt="Agatha-replit" height="20" width="20" src="https://user-images.githubusercontent.com/53305979/224029646-69126a97-2b41-44ad-9798-8b530db79aee.png"> Meu replit</a> 
