@@ -37,11 +37,13 @@ Tenho 23 anos, moro em Belford Roxo/RJ e gosto muito de programação e bichinho
 ## ⚡ Estatísticas GitHub:
 
 <div  align="center">
-
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agatha066&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <a href="https://github.com/Agatha066">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agatha066&layout=compact&langs_count=7&theme=dracula"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agatha066&layout=compact&langs_count=7&theme=dracula"/> 
+-->
+  
 ![Snake animation](https://github.com/agatha066/agatha066/blob/output/github-contribution-grid-snake.svg)
+
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Agatha066)](https://git.io/streak-stats)
